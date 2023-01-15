@@ -1,5 +1,5 @@
 ### Mes informations
-- 🔭 Comment me contacter: [Discord](https://discord.com/user/923324996342927391)
+- 🔭 Comment me contacter: [Discord](https://discord.com/user/1046409536690466848)
 - 🌱 Je développe mes projets en language __JavaScript__, __HTML__ & __CSS__
 
 ### Mes projets
