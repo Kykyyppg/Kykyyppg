@@ -1,5 +1,5 @@
 ### Mes informations
-- 🔭 Etudiant en informatique
+- 🔭 Etudiant en administration réseaux & systèmes
 - 🌱 Je développe mes projets en language __JavaScript__, __HTML__ & __CSS__
 
 ### Mes projets
