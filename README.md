@@ -16,7 +16,7 @@ Pour l'instant, je n'ai pas de projet public à présenter. Mais reste connecté
 ---
 
 ### 🌐 Me retrouver ailleurs  
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/kylian-papegay/*  
+- 💼 LinkedIn *https://www.linkedin.com/in/kylian-papegay/*  
 - 🌍 Mon portfolio *https://kpapegay.fr*  
 
 Merci de visiter mon profil ! N'hésite pas à me suivre ou à contribuer à mes projets 🌟.  
